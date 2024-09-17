@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(35, 35, 35);
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+fieldset{
+    background-color: white;
+    border: solid black;
+}
+a:link {
+    text-decoration: none;
+    color: black;
+  }
+a:visited{
+    text-decoration: none;
+    color: black;
+}
+  a:hover {
+    text-decoration: underline;
+    color: azure;
+  }
+  
+  a:active {
+    text-decoration: underline;
+    color: azure;
+  }
+button:hover{
+    background-color: rgb(101, 101, 101);
+    border: solid rgb(206, 218, 223);
+}
+button{
+    text-align: center;
+    background-color: white;
+    font-family: "Times New Roman", Times, serif;
+    border: solid black;
+    
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
